@@ -48,7 +48,7 @@ Ex.1: Point In Polygon [7pt]
 
 ### Description
 
-In this second exercise, the goal is to test whether a point is inside a polygon or not. This is called the [Point In Polygon](https://en.wikipedia.org/wiki/Point_in_polygon) test.
+In this exercise, the goal is to test whether a point is inside a polygon or not. This is called the [Point In Polygon](https://en.wikipedia.org/wiki/Point_in_polygon) test.
 The principle is as follows: given a point Q and a polygon P, draw a line from the query point Q to some other point far away in the plane (which should be outside P). Then, count the number of segments in P that this line intersects. This method to compute the inside/outside of a polygon is also called the even-odd rule.
 
 ### Code
