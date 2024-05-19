@@ -2,8 +2,7 @@ Introduction to C++ and Basic Geometry
 ======================================
 
 The goal of this first assignment is to get familiar with CMake and C++ by implementing two basic algorithms in geometry.
-In the first exercise, you will implement an algorithm for finding the convex hull of a point cloud in 2D.
-In the second exercise, you will implement a function to test whether a point is inside a polygon in 2D.
+In the exercise, you will implement a function to test whether a point is inside a polygon in 2D.
 
 ### Preparing the Environment
 
