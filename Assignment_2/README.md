@@ -38,7 +38,6 @@ Each `TODO` in the provided code corresponds to a part that you need to fill to 
 
 5. Modify the ray-sphere intersection to follow the generic case we saw in class.
 6. Modify the ray equation for perspective projection.
-7. Compare the difference in the result for a sphere for a parallelogram (you can also create a scene with multiple objects).
 
 
 Ex.2: Shading [10pt]
