@@ -129,7 +129,6 @@ To implement a depth of field effect, you will need to average the contribution 
 ### Tasks
 
 1. Fill in the starter code to implement depth of field.
-2. Modify the input scene to move the rightmost sphere more into focus. Experiment with different settings of this effect.
 
 
 Bonus.2: Refractions [15pt]
