@@ -80,7 +80,7 @@ NB: To visualize the input 3D models, it is suggested to use a software such as 
 Deliverables
 -------------
 
-Submit your `main.cpp` the final raytraced dragon image.
+Submit your `main.cpp`.
 
 
 References
